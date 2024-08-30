@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="75" height="99" viewBox="0 0 75 99">
+  <defs>
+    <clipPath id="clip-MapMarkerS">
+      <rect width="75" height="99"/>
+    </clipPath>
+  </defs>
+  <g id="MapMarkerS" clip-path="url(#clip-MapMarkerS)">
+    <g id="Search-Results-Map-_-Pin" data-name="Search-Results-Map-&amp;-Pin" transform="translate(1.5 1.5)">
+      <g id="XL_SearchResults_SearchPinColorExploration_Radius" transform="translate(1.5 1.5)">
+        <g id="map-pins-and-circle" transform="translate(0 0)">
+          <g id="map-pin-active">
+            <g id="Icons_Mapmarker-filled" data-name="Icons/Mapmarker-filled">
+              <path id="Path" d="M32.647-1.5A33.461,33.461,0,0,0,8.469,8.891,35.9,35.9,0,0,0-1.5,33.867c0,11.28,2.889,15.929,17.808,38,3.119,4.614,6.773,10.02,11.049,16.457a6.322,6.322,0,0,0,10.578,0c4.278-6.44,7.932-11.846,11.051-16.46,14.919-22.071,17.808-26.72,17.808-38A35.9,35.9,0,0,0,56.825,8.891,33.461,33.461,0,0,0,32.647-1.5Z" transform="translate(1.5 1.5)" fill="#fff" stroke="#143c8a" stroke-width="3" fill-rule="evenodd"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="44px" viewBox="0 0 36 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Search-Results-Map-&amp;-Pin" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="XL_SearchResults_SearchPinColorExploration_Radius" transform="translate(-1032.000000, -642.000000)" fill="#143C8A" stroke="#FFFFFF" stroke-width="3">
+            <g id="map-pins-and-circle" transform="translate(749.000000, 351.000000)">
+                <g id="map-pin-default" transform="translate(283.000000, 291.000000)">
+                    <g id="Icons/Mapmarker-filled" transform="translate(2.000000, 0.000000)">
+                        <path d="M16,1.5 C12.0010705,1.5 8.38296901,3.17523853 5.76313141,5.87694606 C3.12684475,8.59561668 1.5,12.3524458 1.5,16.5 C1.5,21.7367867 3.0909958,23.8414663 10.0149725,34.0136108 C11.5922628,36.3308377 13.4403382,39.0458993 16.3989098,42.2762406 C18.5596618,39.0458993 20.4077372,36.3308377 21.9850275,34.0136108 C28.9090042,23.8414663 30.5,21.7367867 30.5,16.5 C30.5,12.3524458 28.8731553,8.59561668 26.2368686,5.87694606 C23.617031,3.17523853 19.9989295,1.5 16,1.5 Z" id="Path"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

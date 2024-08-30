@@ -1,0 +1,112 @@
+.display-block {
+    display: block !important;
+}
+.display-none {
+    display: none !important;
+}
+
+/* Absolute Center Spinner */
+.loading {
+    position: fixed;
+    z-index: 999999;
+    height: 100vh;
+    width: 100%;
+    overflow: show;
+    margin: auto;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    /*display: none;*/
+    background: #0000009e;
+}
+
+.loading svg {
+    display: block;
+    shape-rendering: auto;
+    z-index: 999;
+    width: 180px;
+    height: 100vh;
+    background: transparent !important;
+}
+
+.text-denger { color:#c82333}
+.card-primary:not(.card-outline)>.card-header {
+    border: 1px solid #6356e6;
+    background: #04488c;
+}
+.btn-primary {
+    background: #04488c;
+    border-color: #6457e7;
+}
+a { color: #04488c; }
+a:hover { color: #9f59e2; }
+.login-box h3.mt-4.mb-2.text-center {
+    color: #04488c;
+    font-size: 26px;
+    font-weight: 700;
+}
+.forget a {
+    color: #04488c;
+    font-size: 15px;
+}
+.login-box button.btn.btn-primary.btn-block {
+    margin: 15px 0 10px;
+}
+.login-box {
+    width: 400px;
+}
+.input-group label.abs-float, .form-group label.abs-float , label.abs-select  {
+    position: absolute;
+    color: #aaacaf;
+    font-size: 14px;
+    z-index: 9;
+    font-weight: 500 !important;
+    top: 8px;
+    left: 12px;
+    margin: 0;
+    background: #fff;
+    transition: 0.2s ease all;
+    -moz-transition: 0.2s ease all;
+    -webkit-transition: 0.2s ease all;
+    padding: 0 5px;
+    pointer-events: none;
+}
+
+.input-group.float  label.abs-float, .form-group.float  label.abs-float, label.abs-select.selected {
+    top: -8px;
+    transition: 0.2s ease all;
+    -moz-transition: 0.2s ease all;
+    -webkit-transition: 0.2s ease all;
+    font-size: 12px;
+    color: #04488c;
+}
+label.abs-select.selected {
+    line-height: 10px;
+}
+ul.select2-selection__rendered {
+    padding-right: 30px !important;
+}
+
+ul.select2-selection__rendered:after {
+    content: "";
+        position: absolute;
+        right: 8px;
+        top: 42%;
+        border: solid #3a3636;
+        border-width: 0px 2px 2px 0px;
+        padding: 2px;
+        color: #000;
+        transform: rotate(45deg);
+}
+.form-control.is-invalid, .was-validated .form-control:invalid {
+    background-position: right calc(.375em + .55rem) center !important;
+}
+
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+input:-webkit-autofill:active {
+    transition: background-color 5000s ease-in-out 0s;
+    -webkit-text-fill-color: #000 !important;
+}

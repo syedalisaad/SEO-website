@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="45px" height="60px" viewBox="0 0 45 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Search-Results-Map-&amp;-Pin" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="XL_SearchResults_SearchPinColorExploration_Radius" transform="translate(-962.000000, -571.000000)" fill="#FFFFFF" stroke="#143C8A" stroke-width="3">
+            <g id="map-pins-and-circle" transform="translate(749.000000, 351.000000)">
+                <g id="map-pin-active" transform="translate(214.000000, 223.000000)">
+                    <g id="Icons/Mapmarker-filled" transform="translate(2.000000, 0.000000)">
+                        <path d="M19.5,-1.5 C13.6947168,-1.5 8.43624526,0.938932917 4.63092508,4.8906106 C0.845708313,8.82141166 -1.5,14.250544 -1.5,20.2499951 C-1.5,27.1870516 0.276700597,30.0463303 9.45178012,43.6198731 C11.3698547,46.4574581 13.617239,49.782202 16.2465005,53.7404522 C17.0335395,54.9211568 18.2700643,55.5 19.5000033,55.5 C20.7298901,55.5 21.9663962,54.9212152 22.7521407,53.7424942 C25.382761,49.782202 27.6301453,46.4574581 29.5482199,43.6198731 C38.7232994,30.0463303 40.5,27.1870516 40.5,20.2499951 C40.5,14.250544 38.1542917,8.82141166 34.3690749,4.8906106 C30.5637547,0.938932917 25.3052832,-1.5 19.5,-1.5 Z" id="Path"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
